@@ -5,14 +5,14 @@ Spam detection is a critical component of modern communication systems, especial
 
 ## Table of Contents
 
-- [Introduction to Spam Detection](#introduction to spam detection)
--[Types of Spam](#types of spam)
-- [Techniques for Spam Detection](#techniques for spam detection)
-- [Challenges in Spam Detection](#challenges in spam detection)
-- [Spam Detection in Email](#spam detection in email)
-- [Spam Detection in Social Media](#spam detection in social media)
-- [Spam Detection in Messaging Apps](#spam detection in messaging apps)
-- [Future Trends in Spam Detection](#future trends in spam detection)
+- [Introduction to Spam Detection](#IntroductiontoSpamDetection)
+- [Types of Spam](#TypesofSpam)
+- [Techniques for Spam Detection](#TechniquesforSpamDetection)
+- [Challenges in Spam Detection](#ChallengesinSpamSetection)
+- [Spam Detection in Email](#SpamDetectioninEmail)
+- [Spam Detection in Social Media](#SpamDetectioninSocialMedia)
+- [Spam Detection in Messaging Apps](#SpamDetectioninMessagingApps)
+- [Future Trends in Spam Detection](#FutureTrendsinSpamDetection)
 - [Conclusion](#concluison)
 
   ## Introduction to Spam Detection
