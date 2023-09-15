@@ -15,10 +15,10 @@ Spam detection is a critical component of modern communication systems, especial
 - [Future Trends in Spam Detection](#FutureTrendsinSpamDetection)
 - [Conclusion](#concluison)
 
-  ## Introduction to Spam Detection
+## Introduction to Spam Detection
   Spam detection aims to separate legitimate and desirable messages from unwanted and potentially harmful ones. It helps ensure that users receive only the content they want and trust, thereby improving the overall quality and security of digital communication.
 
-  ## Types of Spam
+## Types of Spam
  - Email Spam: Unsolicited emails often containing advertisements, phishing attempts, or malware.
 - Text Message Spam: Unwanted text messages sent to mobile devices.
 - Social Media Spam: Automated or low-quality posts and comments on social media platforms.
@@ -38,21 +38,21 @@ User Feedback: Allowing users to report spam and use their feedback to improve t
 - Privacy Concerns: Ensuring user privacy while analyzing and filtering messages is a delicate issue.
 - Volume: The sheer volume of spam can overwhelm systems, making real-time detection a priority
 
-  ##  Spam Detection in Email
+##  Spam Detection in Email
   Email Header Analysis:
 
 - Sender IP Address: Check the IP address of the sender to identify known spammer IPs or suspicious sources.
 - Domain Authentication: Utilize sender authentication methods like SPF (Sender Policy Framework), DKIM (DomainKeys Identified Mail), and DMARC (Domain-based Message Authentication, Reporting, and Conformance) to verify the authenticity of the sender's domain.
 
-  ##  Spam Detection in Social Media
+##  Spam Detection in Social Media
   spam in present social media has been the main threat to society because now a days many of the spams are being online . so it may be a information losse or a money losse or any other theft may be. so please be careful while you are on the social media be aware from the links and pages which cause the harm to us and the devices also . so secure our dvices safe and clear info way.
 
-  ##  Spam Detection in Messaging Apps
+##  Spam Detection in Messaging Apps
   
   Spam detection in messaging apps is essential for ensuring a positive user experience, maintaining the integrity of the platform, and safeguarding users from unwanted and potentially harmful content. Here's an overview of spam detection techniques specifically tailored to messaging apps.
   Spam detection in messaging apps requires a multifaceted approach that combines automated algorithms, user reporting, behavioral analysis, and human moderation. The goal is to strike a balance between preventing spam and preserving legitimate communication while maintaining a seamless user experience within the app.
 
-  ## Future Trends in Spam Detection
+## Future Trends in Spam Detection
   
 The field of spam detection is continually evolving to keep pace with new spamming techniques and emerging threats. Here are some future trends and developments in spam detection.
 
